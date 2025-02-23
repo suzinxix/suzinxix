@@ -9,5 +9,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?&logoSize=small&logo=react&logoColor=FFFFFF)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?&logoSize=small&logo=nextdotjs&logoColor=FFFFFF)
 ![TanStackQuery](https://img.shields.io/badge/TanStack_Query-FF4154?&logoSize=small&logo=reactquery&logoColor=FFFFFF)
+![Zustand](https://img.shields.io/badge/🐻_Zustand-000000?&&logoColor=white)   
 ![Sass](https://img.shields.io/badge/Sass-CC6699?&logoSize=small&logo=Sass&logoColor=FFFFFF)
 ![styledComponents](https://img.shields.io/badge/styled_components-DB7093?&logoSize=small&logo=styledcomponents&logoColor=FFFFFF)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?&logo=tailwindcss&logoColor=white)
